@@ -1,0 +1,23 @@
+.ordem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 2em;
+    margin: 3.5em 0 2em;
+    gap: 28px;
+}
+
+.ordem a {
+    font-size: 22px;
+}
+
+.link {
+    color: var(--cinza-medio);
+    text-decoration: none;
+}
+
+.ordem .ativo {
+    color: var(--verde-destaque);
+    font-weight: 500;
+}
